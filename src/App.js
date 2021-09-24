@@ -111,7 +111,7 @@ function App() {
         </div>
         <div className="bio">
           <h4>
-            Hi, My name is Pelumi, you got a message for me send it here. Ha, you got to connect to the Rinkeby network to drop a message.
+            Hi, My name is Pelumi, you got a message for me send it here. Right, you got to connect to the Rinkeby network to drop a message.
           </h4>
         </div>
         <label className="label">
